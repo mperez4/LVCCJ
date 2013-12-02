@@ -1,0 +1,16 @@
+*.xcodeproj
+.DS_Store
+.DS_Store?
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.jpg
+*.jpeg
+*.log
+*.sql
+*.sqlite
