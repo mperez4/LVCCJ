@@ -2,7 +2,7 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
-    std::string url = "http://lvccj.lvaqi.org/pythong/data_objects.json";
+    std::string url = "";
     myfont.loadFont("BanglaSangamMN.ttf", 442);
     myfont2.loadFont("BanglaSangamMN.ttf", 142);
     bg.loadImage("bg.jpg");
